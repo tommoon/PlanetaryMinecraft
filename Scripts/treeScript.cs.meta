@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7027402026bdc4e7ea791ac3b0c42ced
+timeCreated: 1514244975
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - leafy: {fileID: 2100000, guid: 11e3e40ceb1374e2c8edc46e38efb2a1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
